@@ -1,0 +1,124 @@
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+ 
+# OS generated files #
+######################
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+*.DS_Store
+ 
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+ 
+ 
+# IDE
+*.idea
+*.iml
+ 
+# Generated files
+/web-app/WEB-INF
+build/
+*.[oa]
+*.pyc
+ 
+# Other source repository archive directories (protects when importing)
+.hg
+.svn
+CVS
+ 
+# automatic backup files
+*~.nib
+*.swp
+*~
+*(Autosaved).rtfd/
+Backup[ ]of[ ]*.pages/
+Backup[ ]of[ ]*.key/
+Backup[ ]of[ ]*.numbers/
+
+	../../.CFUserTextEncoding
+	../../.IdeaIC15/
+	../../.IdentityService/
+	../../.MacOSX/
+	../../.XYZware/
+	../../.anaconda/
+	../../.android/
+	../../.aspnet/
+	../../.azuredatastudio/
+	../../.babel.json
+	../../.bash_history
+	../../.bash_profile
+	../../.bash_profile-anaconda3.bak
+	../../.bash_sessions/
+	../../.bashrc
+	../../.condarc
+	../../.config/
+	../../.cups/
+	../../.docker/
+	../../.dotnet/
+	../../.dropbox/
+	../../.gitconfig
+	../../.gitflow_export
+	../../.gitignore
+	../../.gitignore_global
+	../../.hgignore_global
+	../../.idlerc/
+	../../.ipynb_checkpoints/
+	../../.ipython/
+	../../.jupyter/
+	../../.local/
+	../../.mono/
+	../../.ms_openjdk_config
+	../../.npm/
+	../../.nuget/
+	../../.oh-my-zsh/
+	../../.pgAdmin4.13486241981510483237.addr
+	../../.pgAdmin4.5976741433536694823.addr
+	../../.pgadmin/
+	../../.psql_history
+	../../.pyenv/
+	../../.pylint.d/
+	../../.python_history
+	../../.ssh/
+	../../.subversion/
+	../../.swt/
+	../../.templateengine/
+	../../.viminfo
+	../../.vscode/
+	../../.zcompdump-Baugh-5.7.1
+	../../.zcompdump-Baugh-5.7.1.zwc
+	../../.zenmap/
+	../../.zprofile
+	../../.zsh_history
+	../../.zshrc
+	../../.zshrc.pre-oh-my-zsh
+	../../Applications/
+	../../Desktop/
+	../../Documents/
+	../../Downloads/
+	../../Dropbox/
+	../../Google Drive/
+	../../Library/
+	../../Movies/
+	../../Music/
+	../../Pictures/
+	../../PostgreSQL with python and psycopg2.ipynb
+	../../Projects/
+	../../Public/
+	../../advent/
+	../
+	../../demo/
+	../../get-pip.py
+	../../learn-django/
+	../../opt/
+
